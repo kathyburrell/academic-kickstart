@@ -82,6 +82,6 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I’m a Reader in Human Geography in the Department of Geography and Planning within the School of Environmental Sciences at the University of Liverpool. Before this I was Reader in Migration and Material Culture in the History group at De Montfort University, Leicester.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+My research interests lie in the intersections between migration, mobilities, place, material culture and memory. These interests have led to different projects on aspects of Polish migration to the UK and the transnational practices of Polish migrants, the life histories and memories of different migrants, as well as research on ‘churn’, conviviality and neighbourliness within the UK city of Leicester.
