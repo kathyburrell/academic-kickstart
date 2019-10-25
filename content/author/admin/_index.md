@@ -23,27 +23,27 @@ email = ""
 
 # List (academic) interests or hobbies
 interests = [
-  "Artificial Intelligence",
-  "Computational Linguistics",
-  "Information Retrieval"
+  "",
+  "",
+  ""
 ]
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups = ["Researchers", "Visitors"]
+#
 
 # List qualifications (such as academic degrees)
-[[education.courses]]
+#[[education.courses]]
   course = "PhD in Artificial Intelligence"
   institution = "Stanford University"
   year = 2012
 
-[[education.courses]]
+#[[education.courses]]
   course = "MEng in Artificial Intelligence"
   institution = "Massachusetts Institute of Technology"
   year = 2009
 
-[[education.courses]]
+#[[education.courses]]
   course = "BSc in Artificial Intelligence"
   institution = "Massachusetts Institute of Technology"
   year = 2008
@@ -56,7 +56,7 @@ user_groups = ["Researchers", "Visitors"]
 [[social]]
   icon = "envelope"
   icon_pack = "fas"
-  link = "#contact"  # For a direct email link, use "mailto:test@example.org".
+  link = "#contact"  # For a direct email link, use "mailto:kburrell@liverpool.ac.uk".
 
 [[social]]
   icon = "twitter"
@@ -82,6 +82,6 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-I’m a Reader in Human Geography in the Department of Geography and Planning within the School of Environmental Sciences at the University of Liverpool. Before this I was Reader in Migration and Material Culture in the History group at De Montfort University, Leicester.
+Kathy is a Reader in Human Geography with interests in migration, especailly aspects relating to mobility, memory, material culture and cultural representation, and is a specialist in Polish migration particularly. She is currently working on an international project funded by the Research Council of Norway on the experiences of Poles in the UK, Sweden and Norway (http://famac-project.com/) and is writing about Brexit and Polish migration, as well as the relationships migrants have with the state in these different countries. Kathy has also been writing about graphic narratives of the European 'refugee crisis'.
 
-My research interests lie in the intersections between migration, mobilities, place, material culture and memory. These interests have led to different projects on aspects of Polish migration to the UK and the transnational practices of Polish migrants, the life histories and memories of different migrants, as well as research on ‘churn’, conviviality and neighbourliness within the UK city of Leicester.
+Before she moved to Liverpool in 2013 Kathy was Reader in Migration and Material Culture at De Montfort University in Leicester. She was awarded her AHRB-funded PhD on postwar Polish, Italian and Greek-Cypriot migration to the UK at the University of Leicester in 2004. Kathy also did her BA and MA degrees at Leicester, graduating in 1998 with a BA in Politics and Economic & Social History (First Class Hons), and an MA in English Local History in 2000.
